@@ -1,6 +1,5 @@
-Sıradan koşu, engellerden kaçma ve elmas toplama oyunu!
-
-Kontrol: Sağa ve sola sürükleyerek karakteri yönlendirme. yukarı kaydırarak zıplama.
-
-Hedef: Yol boyunca engellere çarpmadan elmas ve hız ikonlarını toplayarak bitiş noktasına gelmek.
-Bitiş noktasına gelindiğinde bir sonraki seviye aktif olacak.
+Engellere çarpmadan hedefe ulaşarak bir sonraki seviyeye geçmeye hak kazan.
+Bitiş noktasında seni bir sonraki seviyeye taşıyacak bir helikopterin bulunuyor.
+Yol üzerindeki elmasları toplayarak kendini kanıtla.
+Yolu hızlı bir şekilde bitirebilmen için hız itemlerini toplaman gerek.
+Dikkatli ol yol üzerinde hızını düşürecek çalılar ve ufak taşlar bulunur, bunların üzerinden zıplamalısın.
